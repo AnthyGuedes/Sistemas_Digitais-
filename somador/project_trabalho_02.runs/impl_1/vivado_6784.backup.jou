@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Wed Sep 24 09:42:08 2025
+# Process ID: 6792
+# Log file: C:/Users/laboratorio/project_trabalho_02/project_trabalho_02.runs/impl_1/somador_2bits.vdi
+# Journal file: C:/Users/laboratorio/project_trabalho_02/project_trabalho_02.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source somador_2bits.tcl -notrace
